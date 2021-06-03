@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forty four queries propounded to all the clergy-men of the liturgy by one whom they trained up in and according to the best things set forth in the Book of common-prayer concerning the which these queries are, for the satisfying of the unsatisfied, and for the uniting and preserving of peace among the people : wherein also first are shewed eleven reasons why these queries are proposed / written by one that hath learned, as he was taught, to forsake the Devil and all his works ... Humphrey Smith.</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60434</idno><idno type="EEBO-CITATION">13777175</idno>
+  <idno type="VID">101763</idno>
+  <idno type="EEBO-PROQUEST">2240868868</idno>
+  
+            <idno type="STC">Wing S4060</idno>
+            <idno type="STC">ESTC R10199</idno>
+            <idno type="OCLC">13777175</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forty four queries propounded to all the clergy-men of the liturgy by one whom they trained up in and according to the best things set forth in the Book of common-prayer concerning the which these queries are, for the satisfying of the unsatisfied, and for the uniting and preserving of peace among the people : wherein also first are shewed eleven reasons why these queries are proposed / written by one that hath learned, as he was taught, to forsake the Devil and all his works ... Humphrey Smith.</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Controversial literature.</term>
+               <term type="corporate_name">Church of England --  Liturgy.</term>
+               <term type="corporate_name">Church of England. --  Book of common prayer.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101763:1"/>
+            <pb facs="tcp:101763:1"/>
+            <p>FORTY FOUR QUERIES Propounded to all the Clergy-Men of the LITURGY BY one whom they trained up in, and according to the best things set forth in the Book of COMMON-PRAYER.</p>
+            <p>Concerning the which these Queries are, for the satisfying of the unsatisfied, and for the uniting and preserving of peace among the People.</p>
+            <p>Wherein also first are shewed eleven Reasous why these Queries are proposed.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ritten by one that hath learned (as he was taught) To forsake the Devil and all his works, the vanities of the wicked world, to hold the true Christian-Faith, and to keep God's holy will and Commandments, and walk in the same all the dayes of his life.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the which onely, and for no other Cause, he having suffered se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ral cruel, long, close Imprisonments, Cold, and Nakedness, with many stripes, and divers other Abuses, Hardships and Dangers, for the space of five years, by such Rulers, and under such Powers, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> denied the Common-Prayer; and doth likewise now suffer as [or more] unjustly by such Rulers, and under such Powers as do again own and profess the Common-Prayer, which teacheth to <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort no body by word or deed; and therefore doth he leave it un<g ref="char:EOLhyphen"/>to those to consider what reason or equity it is he should suffer <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow by them also onely for professing and practising the chiefest things which they themselves (or them of their own way) did <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>each him, and bind him to observe. <hi>Humphrey Smith.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:101763:2"/>
+            <pb n="1" facs="tcp:101763:2"/>
+            <head>To all and every of the Clergy-men of the LYTVRGIE, these.</head>
+            <head>Upon these good Grounds, and just Causes, and weighty Reasons, are these following things (with integrity of heart) propounded unto you.</head>
+            <p n="1">1. <seg rend="decorInit">B</seg>Ecause your manner and way of Worship, and practise in many things, hath been these twenty years by many zealous per<g ref="char:EOLhyphen"/>sons very much questioned; who ought to be satisfied or stopt by sound Argu<g ref="char:EOLhyphen"/>ments and Doctrine, and Words of Scri<g ref="char:EOLhyphen"/>pture-truth; or else a true reconciliation in the hearts and minds of both, cannot easily be.</p>
+            <p n="2">
+               <hi>2dly.</hi> Because it is most agreeable to the Law of God, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ost according to the Commands of Christ, and doth most <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Doctrine and Practice of the Apostles, and is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rofessed even by you in the Book of Common-Prayer, <hi>To <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eshy neighbour as thy self, and not hurt the body of any man <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> word or deed; to love enemies; to do good unto all, and to convince <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sayers with sound Doctrine, and words that cannot be con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>red;</hi> Rather than to inflict great punishments upon <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bodies, and forfeitures of outward goods, because of a <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inciple in the inward mind, which is not removed there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p n="3">
+               <hi>3dly,</hi> Because that Heresie is first occasioned by the Devil, whereby the mind is mistaken or mis-lead, and then prompt a in the same by a spiritual Motion, which worketh in the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>al Wickedness, which is of another nature and being <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the visible body (simply considered) in which it acts, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than the outward goods.</p>
+            <pb n="2" facs="tcp:101763:3"/>
+            <p> And therefore the Power of God, and the Spiritual Wea<g ref="char:EOLhyphen"/>pons, and the continual exercise thereof, is to stop, over<g ref="char:EOLhyphen"/>come, and remove that, which the taking away of carnal goods, and casting into carnal prisons (neither yet a carnal Commandment it sellf) can do.</p>
+            <p n="4">
+               <hi>4thly.</hi> Because it is no less than the duty of a true Mini<g ref="char:EOLhyphen"/>ster, to render an account of the hope that is in him, unto him that asketh.</p>
+            <p n="5">
+               <hi>5thly,</hi> Because twenty years ago there was not such a ne<g ref="char:EOLhyphen"/>cessity of inquiring into those things, as now there is; for<g ref="char:EOLhyphen"/>asmuch as then your way was going down, and now coming up again; and that then there were not so many unsatisfied so much about such things, as now there are.</p>
+            <p n="6">
+               <hi>6thly,</hi> Because divers things and opinions in the minds of many, hath within these twenty years been more largely contended about, and opened, both in open Conference, Disputes, Writing, Print and Practice, than in some ages be<g ref="char:EOLhyphen"/>fore, whereby in twenty years time, you might be learned therein, and so know the better how (now) to return the more readier Answer thereunto.</p>
+            <p n="7">
+               <hi>7thly,</hi> Because now you are (as it were) upheld under both Arms, (with Law on the one side, and armed men on the other) that so you need not be afraid, but may with more boldness answer to such things, than in the late years, when the powers of men ruled so much over you that you durst not so openly contend for your Faith, nor answer such things, not manifest and practise your Principles, as we do ours now in bonds under you.</p>
+            <p>
+               <hi>And again, as in respect of my own particular, and so in the behalf of others truly with me concerned in the same.</hi>
+            </p>
+            <p n="1">1. BEcause that I was taught, educated, and trained up in the very same things, which you practise and pro<g ref="char:EOLhyphen"/>fess, and which yet among you your selves stand in force.</p>
+            <p n="2">
+               <hi>2dly,</hi> Because I now suffer Bonds this day as an Heretick, or as a Seducer, (as the Mittimus saith) who have to this ve<g ref="char:EOLhyphen"/>ry day with the help of God's special Grace, more and more
+<pb n="3" facs="tcp:101763:3"/>endeavoured, and come to lead my life, and regulate my <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ways and duty towards God and man, according to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> best, most weighty, and chiefest things set forth in the Common-Prayer, according as I was by some of your own called Episcopal Divines, trained up, and without which they would not receive me into communion with them; at which me I was by one of them encouraged (as by others at other <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) to press on further, commending me for what I was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en already come unto.</p>
+            <p n="3">
+               <hi>3dly,</hi> Because that ever since that time, unto this day, I have been pressing forward, and was never cast out from <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng them for so doiag, (nor any thing else) as by any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Excommunication, or any known Order or Rule <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed or owned by them; neither yet hath any one of them <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to admonish me (from pressing forward) since that, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day; neither can they wel justifie rejecting of me, until <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the second admonition, if they could prove I was an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eretick <hi>Tit.</hi> 3.10.</p>
+            <p n="4">
+               <hi>4thly,</hi> Because they did not tell me, neither did I ever <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out of the Common. Prayer, nor read in the holy Scriptures, That a man might persevere too much, or too <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the way of holiness; or walk too much with God, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be too much mortified, or leave sin too much, or be too <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or too circumspect, or too just, or too upright, or too <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ful to God and man, and walk and speak too much ac<g ref="char:EOLhyphen"/>cording to the Scriptures, or be too innocent, or too harm<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, or be too much conformable to the Image of Christ, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too much like unto him, or too much cleansed by his blood <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all sin wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lst in this world, or walk too much in God's <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mandmenta all the days of man's life.</p>
+         </div>
+         <div type="queries">
+            <pb n="3" facs="tcp:101763:4"/>
+            <head>The Queries propounded to you, are these.</head>
+            <p n="1">1. WHether the late Reformers and Composers of the <hi>Rites</hi> and <hi>Ceremonies</hi> in the Book of <hi>Common-Pray<g ref="char:EOLhyphen"/>er,</hi> were not themselves for <hi>Liberty of Conscience?</hi>
+            </p>
+            <p>If not, how are their own words true<note n="*" place="margin">Seeing in that (be<g ref="char:EOLhyphen"/>fore the Common-Prayer) which sheweth why some Ceremonies are abolished, and some retained, they say, <hi>These thing were taken away which were most abused, and did burthen the Conscience.</hi>
+               </note>.</p>
+            <p>It they were, Whether those that profess the <hi>Common-Prayer,</hi> and are against <hi>Liberty of Conscience,</hi> are not con<g ref="char:EOLhyphen"/>trary to them? Like those who profess <hi>Scripture,</hi> and ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contrary to that <hi>Spirit</hi> by which they were given.</p>
+            <p n="2">2. Whether those who profess the <hi>Common-Prayer,</hi> and prescribe things to those whom they own not as their own people, but persecute them as Hereticks, and do think it no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> convenient, neither will allow every people who are no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own, or one with them in Worship, to use such thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as they shall think best, to the setting forth of God's hono<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and glory, and to the reducing the people to a most perfect<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and holy living, <hi>&amp;c.</hi> be not contrary to them that reforme the Book of <hi>Common-Prayer?</hi>
+            </p>
+            <p>Seeing they said, <hi>We condemn no other Nation, nor prescrib<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any thing but to our own people onely; for we think it convenie<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that every Countrey,</hi> (and if so, then consequently ever<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People) <hi>should use such Ceremonies as they think best, to the set<g ref="char:EOLhyphen"/>ting forth of God's honor and glory, and to the reducing the peopl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to a most perfect and godly living, without Error or Super<g ref="char:EOLhyphen"/>stition.</hi>
+            </p>
+            <p n="3">3. Whether those that now profess the <hi>Ceremonies,</hi> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not have other things put away,<note place="margin">See the lat<g ref="char:EOLhyphen"/>ter end of that above said.</note> than they who reform<g ref="char:EOLhyphen"/>ed it, be not therein contrary unto them, and to their Or<g ref="char:EOLhyphen"/>der, who said, <hi>They should put away other things which from
+<pb n="5" facs="tcp:101763:4"/>time to time they perceived to be most abused?</hi> And whether they did not order, that not onely abuses, and the things themselves that were abused, should be put away; and not onely the things which they had put away because they were abused, but likewise other things which from time to time they perceived to be most abused? And so whether these now that would have no other things put away but what they did, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not worse then them, and contrary to their order men<g ref="char:EOLhyphen"/>tioned in the Margent.</p>
+            <p n="4">
+               <note place="margin">
+                  <hi>Seeing they say (not the Scrip<g ref="char:EOLhyphen"/>ture)</hi> At what time soever a sinner doth re<g ref="char:EOLhyphen"/>pent him of his sin from the bottom of his heart, God will put out all his wick<g ref="char:EOLhyphen"/>ed ness. <hi>And see<g ref="char:EOLhyphen"/>ing they say <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> should not</hi> dissemble <hi>nor</hi> cloak their sins. <hi>And seeing they confess,</hi> they have offen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed against God's holy Law, and there is no health in them, but are miserable <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>dors. <hi>And seeing that following is said to be the Absolution and Remission of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note>4. Whether that <hi>Confession</hi> and <hi>Repentance</hi> in that begin<g ref="char:EOLhyphen"/>ning with the words of <hi>Almighty and most merciful Father,</hi> &amp;c together with the <hi>Absolution</hi> and <hi>Remission</hi> of <hi>Sins</hi> following, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a true <hi>Confession, Repentance,</hi> and <hi>Remission</hi> from the bot<g ref="char:EOLhyphen"/>tom of the heart? Or is it false and feigned?</p>
+            <p>If false, is it not cloaking of more sin, and dissembling with God, and deceiving their own souls?</p>
+            <p>If true, how then are such (after Confession and Remis<g ref="char:EOLhyphen"/>sion) <hi>miserable sinners</hi> before they depart, as in the <hi>Letany?</hi>
+            </p>
+            <p>And if the <hi>Confession, Repentance</hi> and <hi>Absolution</hi> be right <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true, and from the bottom of the heart, and such thus <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>doned, and so made clean, run afterwards, and that <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in and again, into the very same sins; whether they be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like the <hi>Dog</hi> and the <hi>Sow,</hi> that turn to the wallowing in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Mire, and the Vomit again?</p>
+            <p n="5">5. Whether after <hi>true Confession</hi> and <hi>Repentance,</hi> such may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enceforth live a godly, righteous, and sober life, and that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and holy, according to the latter end of the Confessi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and of the Absolution?</p>
+            <p n="6">6. Whether all such as <hi>have erred and strayed from the ways <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God,</hi> were before they did so err, made <hi>Members of Christ, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of God,</hi> and <hi>Inheritors of the Kingdom of God?</hi> And <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any were made such Members, &amp;c. but such as have <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed of the good Word of God, and the Power of the
+<pb n="6" facs="tcp:101763:5"/>world to come? And whether such as have so tasted there<g ref="char:EOLhyphen"/>of, and after err and stray from the ways of God, can be re<g ref="char:EOLhyphen"/>newed again by Repentance?</p>
+            <p>If not, is not their Repentance false, or not effectual, like <hi>Esau</hi>'s?</p>
+            <p>If true, how then is the Scripture true, seeing it speaks as afore-mentioned, of not being renewed by Repentance?</p>
+            <p n="7">7. Whether such as were made <hi>Members of Christ, Chil<g ref="char:EOLhyphen"/>dren of God,</hi> and <hi>Inheritors of the Kingdom of Heaven,</hi> and are now erred and strayed from the ways of God, so that they are miserable offendors, and that against God's holy Law, (as themselves confess) can then, in that state, and that very hour, sing unto the Lord, and heartily rejoice, and come before God's presence with thanksgiving? And whe<g ref="char:EOLhyphen"/>ther such miserable offendors are the people of God's Pa<g ref="char:EOLhyphen"/>sture, and the Sheep of his hands?</p>
+            <p n="8">8. Whether all such as in the beginning of the Letany do themselves acknowledge four times over, <hi>that they are misera<g ref="char:EOLhyphen"/>ble sinners,</hi> can call God their Father, by saying, <hi>Our Father which art in Heaven?</hi> Or can such <hi>miserable sinners</hi> make others the Children of God by sprinkling a little water upon their faces? And whether God hath such four-fold miserable Children? Or, are those who are truly the children of God, at the same time in such a four-fold, miserable estate? Or, are such miserable men truly the Ministers of Christ?</p>
+            <p n="9">9. VVhether God's people may be delivered by him from all these things following, a <note place="margin">
+                  <hi>See</hi> Leta<g ref="char:EOLhyphen"/>ny 6, 7, &amp; 8. <hi>Parti<g ref="char:EOLhyphen"/>culars:</hi>
+               </note> that is to say, <hi>frrom all evil and mischief, from sin, from the crafts and assaults of the Devil, from God's wrath, and from everlasting damnation; from all blindness of heart, from pride, vain-glory and hypocrisie; from envy, hatred and malice, and all uncharitableness; from Fornication, and a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> other deadly sin; from all the deceits of the World, the Flesh and the Devil?</hi> And whether such as are delivered from all <hi>these things,</hi> he not delivered from <hi>all sin?</hi> And then are not such free without sin? If not, then what sin is it they are guilty of, who are truly delivered from all these? And whether such as pray to be delivered from all these, and do not believe that they shall be so delivered, do not therein sin against
+<pb n="7" facs="tcp:101763:5"/>God &amp; so instead of being delivered out of sin (by their praying) <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in unto sin, being it is written, <hi>What soever is not of Faith, is sin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p n="10">10. Whether shall I own that man, as Christ did, and believe <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who said, <hi>We know that God heareth not sinners;</hi> or else miserable <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>enders, who in their prayers say, <hi>We sinners do beseech thee to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> us, O Lord;</hi> and so believe that the Lord doth hear them,<note place="margin">See Leta<g ref="char:EOLhyphen"/>ny the <hi>14.</hi> particular.</note>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough their continual fruits, &amp; the Scripture, testifie otherwise?</p>
+            <p n="11">11. What, and where is the <hi>way of truth,</hi> which all such as have <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and are deceived, are to be brought <hi>into,</hi> seeing when one <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was committed, the creature was deceived,<note place="margin">See Leta<g ref="char:EOLhyphen"/>ny the <hi>26.</hi> Particular</note> and if deceived and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sin, then unclean, and no unclean thing shall enter into the <hi>Kingdom of God?</hi> And whether Christ who is the <hi>way and the truth,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not in the <hi>Kingdom of God?</hi> And whether all such are not onely <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unsaved from their sin, but are miserable offenders, and that against God's righteous Law, and yet in the same nature, way, words, worship and practise, as were their fore-fathers, whom they confess were in iniquity; have not all these erred, and are yet <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eived, seeing Christ saved his from sin? And whether such do yet rightly know the <hi>way of truth</hi> themselves, which they should <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e brought <hi>into,</hi> in which there is no sin?</p>
+            <p n="12">12. Whether all men are capable of the mercy of God?<note place="margin">See Leta<g ref="char:EOLhyphen"/>ny the <hi>31.</hi> particular. <hi>John 1.9.</hi>
+               </note> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hether Christ hath not lighted every man that cometh into the world? And whether God doth shew to all men that be in error, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Light of his Truth, to the intent they may return into the way of righteousness, according to the <hi>Collect</hi> appointed for the 3d. Sun. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Easter?</hi> And whether the VVord be not the truth, <hi>John</hi> 17.17. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d is not the VVord in the heart? And hath not God shewed that to all men, though they be in Error?</p>
+            <p n="13">13. VVhether men may (with the help of God's grace) cast <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay the works of darkness,<note place="margin">See the Collect for the first sunday in <hi>Advent.</hi>
+               </note> and put on the Armour of Light now <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the time of this life? And whether the works of darkness be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e sin, the works of the Devil? And whether the Armour of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be not the Power of God? And whether the Power of God <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not sufficient to defend from the Enemy and his Power, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to defend from the Devil and his works.</p>
+            <p n="14">
+               <note place="margin">See the Communi<g ref="char:EOLhyphen"/>on next af<g ref="char:EOLhyphen"/>ter the Creed and Homily.</note>14. Whether those that in this life have put on the Armour of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, are not to let it shine before men, that God may be glori<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>? And whether it be not for God's glory when his people are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Light defended from all the works of darkness? And whe<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:101763:6"/>those that now deny the Light, and would hinder the Chil<g ref="char:EOLhyphen"/>dren of Light from letting their light shine before men (which saveth them from sin) be not themselves against the <hi>Common-Pray<g ref="char:EOLhyphen"/>er,</hi> and the late <hi>Reformers</hi> of it, against <hi>GOD, CHRIST</hi> and <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> seeing that <hi>God is Light,</hi> and Christ said, <hi>I am the Light;</hi> and the Scriptures testifie of him <hi>that is the Light,</hi> who commanded his to let their Light shine? And then is he a man, or below the principle of a man, who hideth his Light under a Bushel?</p>
+            <p n="15">15. Whether any men in their youth, infancy or full age, may <hi>forsake the Devil and ALL his works,</hi>
+               <note place="margin">See pub<g ref="char:EOLhyphen"/>like baptism about the midst, and Catechism a little af<g ref="char:EOLhyphen"/>ter the be<g ref="char:EOLhyphen"/>ginning.</note>
+               <hi>the vain pomp and glory of the world, with all covetous desires of the same, and carnal desires of the flesh, so as not to follow nor be led by them,</hi> &amp; afterwards <hi>keep God's holy will and Commandments, and walk in the same all the days of their lives?</hi>
+            </p>
+            <p>If they may, why should they not profess the same, and not be counted boasters by such as taught them so? And why may they not live in the same, without being persecuted for it by such as bound them to it?</p>
+            <p>If they cannot, why is it that they are forced to promise and vow so to do?</p>
+            <p n="16">16. Again, whether they that minister this <hi>PROMISE</hi> and <hi>VOW</hi> unto others, have themselves in all things performed the same, <hi>viz.</hi> Whether they themselves who impose this upon others, do <hi>forsake the Devil and ALL his works, the vain pomp and glory of the world, with all covetous desires of the same, and the carnal desires of the flesh, so that they themselves do not follow, neither are led thereby, but do keep God's holy will and commandments, and walk in the same every day o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their own lives?</hi>
+            </p>
+            <p>If they do, how is it that their fruits appear otherwise, not one<g ref="char:EOLhyphen"/>ly in vain pomp and covetous desires, (like <hi>Balaam</hi>) but also in co<g ref="char:EOLhyphen"/>vetous practises, worse than <hi>Balaam?</hi>
+            </p>
+            <p>If they do not, then whether therein they are not just like be Scribes, Pharisees and Hypocrites of old, who laid heavy burthen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the people, but themselves would not move them with on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their singers.</p>
+            <p n="17">17. Again, if any men in youth, infancy or full age, do atta<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> so far in their own particulars, to forsake <hi>all the things aforesaid</hi> (which indeed includes all sin) whether they can safely, and with <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good Conscience, promise and vow for another, that he shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the like, seeing also it is but an Infant? And whether all infant
+<pb n="9" facs="tcp:101763:6"/>
+               <hi>England</hi> be elected, and are of the faithful Seed? And whether <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but God's Elect can perform the promises &amp; vows aforesaid?</p>
+            <p>If not, why should the people be forced to make such vows which cannot be kept, and be constrained and taught to tel lyes in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> presence of God, by saying, <hi>We forsake them all,</hi> if they nor the Child do not so?</p>
+            <p>If they do, let God's Witness in their Consciences answer, which will shew the truth of the matter.</p>
+            <p n="18">18. Again, whether is it good or evil for people <hi>to forsake the Devil and all his works, the vain pomp and glory of the world, with all <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etous desires of the same, and the carnal desires of the flesh, so as not a follow, nor be led by them, and then to keep God's holy Will and Com<g ref="char:EOLhyphen"/>mandments, and walk in the same all the days of his life?</hi>
+            </p>
+            <p>If evil, why are they bound and taught so to do?</p>
+            <p>If good, why are many this day persecuted and imprisoned one<g ref="char:EOLhyphen"/>ly for so doing?</p>
+            <p n="19">19. Whether the <hi>old man</hi> in people or children may be so buri<g ref="char:EOLhyphen"/>ed, that the <hi>new man</hi> may be raised up in them?<note place="margin">See fur<g ref="char:EOLhyphen"/>ther in Publike Baptism.</note>
+            </p>
+            <p>If not, why have the Priests prayed, so many years together?</p>
+            <p>If it may be so, why may not such then profess the <hi>new man</hi> rai<g ref="char:EOLhyphen"/>sed up in them, without being called <hi>Hereticks</hi> for so professing?</p>
+            <p n="20">20. Again, if the <hi>new man</hi> be to be raised up in people when they are in infancy; then whether it be not to be raised up any other time, or some other time of their life, if it be not raised up in their infancy? And then whether they be not true labourers <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o labour to raise this up in people? And whether they be not effectual Preachers who do thereby raise it up in people? And whe<g ref="char:EOLhyphen"/>ther this <hi>new man</hi> be not <hi>Christ?</hi> And if he be not raised up, whe<g ref="char:EOLhyphen"/>ther the preaching be not vain, the faith vain, and the people con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e in their sins, that being not raised up in them which is to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aye from sin? And whether this <hi>new man</hi> is not in people and chil<g ref="char:EOLhyphen"/>dren before it be raised up? And is not the <hi>new Man</hi> the <hi>Second <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</hi> And is not that the <hi>Seed,</hi> which if we had been left with<g ref="char:EOLhyphen"/>out, we had been as <hi>Sodom?</hi> And is not the Seed sown in all sorts <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ground? And is not the Seed Christ, which was stil in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, though not known by the world, and who lighteth every <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that cometh into the world? And is not this the Truth (Christ) <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch God desireth in the inward parts? <hi>Psal.</hi> 51.6. And is not this <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth which is promised to spring out of the earth? <hi>Ps.</hi> 85.11. &amp; <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not the <hi>first man</hi> made of the Earth? And are not all people
+<pb n="10" facs="tcp:101763:7"/>descended from him, and so of the Earth? And whether it be not unreasonable that many hundreds should be persecuted chiefly for professing this, and that by such who taught them so to pro<g ref="char:EOLhyphen"/>fess, and for witnessing, speaking and writing of the <hi>new man</hi> rai<g ref="char:EOLhyphen"/>sed up in them, and for living uprightly according thereunto?</p>
+            <p n="21">21. Whether Children or People (who have the <hi>New Man</hi> rai<g ref="char:EOLhyphen"/>sed up in them) may have all carnal affections dye in them, and come to know all things belonging to the Spirit, (not onely) to live (but also) to grow in them?</p>
+            <p>If not, why are they deceived with those fair speeches?</p>
+            <p>If they may, then who are most agreeable thereunto, and the best Christians, they that onely talk of, and profess these things effected inwardly, and yet deny that any live in it; or them that are come unto, and do truly know, and live in the possession of these things within them?</p>
+            <p n="22">22. Whether the <hi>new Man</hi> be not the <hi>Second Adam,</hi> the <hi>quick<g ref="char:EOLhyphen"/>ning Spirit?</hi> And if it be, whether as many as are truly led there<g ref="char:EOLhyphen"/>by (it being within them) be not the Sons or Children of God? And whether there be any other that be the Children and Sons of God, but onely such as have this <hi>New Man</hi> raised up in them, and are truly led thereby?</p>
+            <p n="23">
+               <note place="margin">See fur<g ref="char:EOLhyphen"/>ther in publike Baptism.</note>23. Whether all the Children these late hundred years that were baptized, were regenerated when a little water was sprinkled up<g ref="char:EOLhyphen"/>on their faces, though it were done by such a Priest who himself was unregenerate, and either a proud, covetous, or drunken man?</p>
+            <p>If they were, or the most part of them, how then did they come afterwards to be unregenerate, seeing that after their Infant-Bap<g ref="char:EOLhyphen"/>tism most are looked upon to be, and by their fruits do indeed ap<g ref="char:EOLhyphen"/>pear in an unregenerate estate? And whether in any age it can be proved by Scripture, that there were so many, either young or old, first regenerated, and then unregenerated again?</p>
+            <p>If they were not, how then are the Priest's words true, when he saith after he hath sprinkled them, <hi>Seeing now, dearly beloved Bre<g ref="char:EOLhyphen"/>thren, that these children be regenerate?</hi>
+            </p>
+            <p n="24">
+               <note place="margin">See pri<g ref="char:EOLhyphen"/>vate Bap<g ref="char:EOLhyphen"/>tism</note>24. VVhether all, or any of those Infants these many hundred late years, whom the Priests say were born in Original Sin, and in the wrath of God, did come to regeneration in their Infant-bap<g ref="char:EOLhyphen"/>tism, and were then received into the number of the Children of God, and heirs of everlasting life? was all this done for them,
+<pb n="11" facs="tcp:101763:7"/>and they truly come from the one state into the other, by ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> a little water poured on their faces, and by the speaking of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aptize thee in the Name of the Father, and of the Son, and of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ghost, Amen.</hi>
+            </p>
+            <p>It being done by a man who himself at another time will con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with his own mouth, <hi>That he is</hi> (with the rest) <hi>a miserable sin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and how can an <hi>old miserable sinner,</hi> make a <hi>young child thus <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="25">
+               <note place="margin">See Cate<g ref="char:EOLhyphen"/>chism.</note>25. Whether all Children (so sprinkled) or the most part of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were made Members of Christ, Children of God, and In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tors of the Kingdom of Heaven?</p>
+            <p>If not, whether it be not pity that so many thousand Children <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be taught and trained up to speak that which is untrue, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are so young, in saying they were made so, when they are not; and likewise to be deceived thereby all the days of their <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>?</p>
+            <p>If they were made so, how shall a reasonable man be perswa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from any good reason or Scripture-proof, that they are af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wards dis-membred from Christ, separated from God, and dis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nted out of the Kingdom of Heaven? And when did Christ <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Members or God his regenerate children, or his Kingdom <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inheritors thereof?</p>
+            <p n="26">26. How can such make others the Members of Christ, who are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so themselves? And whether Christ hath any <hi>miserable members?</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if <hi>miserable sinners</hi> pretend to take upon them to make others <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> members of Christ, and receive wages for it, and yet do it not, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>her such are not plain deceivers?</p>
+            <p n="27">27. Whether the Priests that say they are <hi>miserable sinners,</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>trable offendors,</hi> be really so, or not?</p>
+            <p>If not, are not they miserable lyars in so saying?</p>
+            <p>If they be, whether they that are <hi>miserable sinners,</hi> and <hi>misera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffenders,</hi> can make others so free from all sin and misery, as the <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bers of Christ, in whom is no sin, who were as miserable as <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>selves, if they were born in original sin, and in the wrath of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="28">28. Whether Children were not first taught their duty towards <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before their duty towards their Neighbour? And whether <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are not stil in the first place to obey God, and secondly to
+<pb n="12" facs="tcp:101763:8"/>love their neighbour as themselves? and so, whether obedience to God is not still to be preferred before obedience to man, though his neighbour?</p>
+            <p>If not, why were they so taught?</p>
+            <p>If it be, why then do the Teachers now seek to cause them to obey man in <hi>swearing,</hi> and many other things, rather than Christ, who said, <hi>Swear not at all,</hi> Matt. 25. Jam 5.</p>
+            <p n="29">29. Whether children were not taught (among other things) to hurt no body by word or deed, to bear no malice in the heart, to rule the hands, the tongue, the body, and the desire, in not coveting any man's goods?</p>
+            <p>If this be right so to do, why do not the Priests themselves do it, and instruct all Magistrates and people in the like, and suffer them that do so, and e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>con<g ref="char:EOLhyphen"/>rage them also to continue in the same?</p>
+            <p>If this be not right, why did the Priests teach it us when we were young and whether be the Priest's covetous, yea or nay?</p>
+            <p n="30">30. Whether children were not taught that they could do little of themselves, nor walk in the commandments of God, nor serve him, without his special Grace; and after in another place, that the Grace was <hi>inward and spiritual?</hi>
+            </p>
+            <p>If so, whether God's special Grace, which is <hi>inward,</hi> is not much more than the letter, which is <hi>outward?</hi>
+            </p>
+            <p>If it be not, why were those words written in the outward letter?</p>
+            <p n="31">31. Again, if none can walk in the commands of God, nor serve him with<g ref="char:EOLhyphen"/>out his special Grace, which is <hi>inward;</hi> then what manner of walking or ser<g ref="char:EOLhyphen"/>vice is theirs who of late have denied the Grace which is inward, and the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that are led by it; which Grace the Bishop in the Confirmation prayeth to the Lord to defend children with? and if nothing can be done of one's self with out this Grace, and that this Grace doth defend, and the Apostle saith, <hi>bring<g ref="char:EOLhyphen"/>eth salvation,</hi> and <hi>by Grace ye are saved;</hi> and the Catechism saith, this Grace <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>inward and spiritual;</hi> and also, why are so many persecuted this day for receiving this Grace, and power by it, which is <hi>inward,</hi> who walk in the commands o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and serving him?</p>
+            <p n="32">32. Whether children were not taught, that this <hi>inward and spiritual Grace</hi> was a <hi>death unto sin,</hi>
+               <note place="margin">See Bi<g ref="char:EOLhyphen"/>chopping.</note>
+               <hi>and a new birth unto righteousness?</hi>
+            </p>
+            <p>If so, then whether shall people esteem those Common-Prayer-men to be rightest, who directed to the <hi>inward and spiritual Grace</hi> to bring unto a death unto sin, &amp; a new birth unto righteousness, or those men, who direct unto the Letter <hi>without,</hi> or a Steeple house, or any thing else that is <hi>outward &amp; visible</hi> see<g ref="char:EOLhyphen"/>ing the others directed to that which is <hi>inward &amp; spiritual,</hi> which the Apostle said saved them? and whether the same doth not save now? or whether the grace o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God hath not the same sufficiency in it self as it had in the days of the Apostles or in the days of the late Reformers of the <hi>Common-Prayer:</hi> And whether th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which have received this <hi>inward Grace,</hi> may not thereby encrease in the same and in the spirit more and more (according to that in the laying on of hand<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="33">33. If you wil grant the Apostles words to be true, that the man was not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceived, but the woman being deceived was in the transgression,<note place="margin">See Ma<g ref="char:EOLhyphen"/>trimony.</note> 1 <hi>Tim.</hi> 2.14, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether this be not dark work, or works of darkness, to cause the man to wor<g ref="char:EOLhyphen"/>ship the woman, seeing they were both deceived, and in the transgression, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so instead of worshipping God, make him worship the deceived <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="34">34. If you wil grant that man was not deceived, but the woman (who was s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the transgression) Then wherefore is it that man being first deceived b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:101763:8"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> must now also worship woman? And whether this be God's Ordi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, or not? And did not God ordain, that man should rule over the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 3.16. and why then did man ordain that man should worship the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and when did God ever ordain that man should worship that which <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> set him to rule over?</p>
+            <p>If you will grant that when <hi>Peter</hi> did onely contradict Christ in words, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> esteemed him as a Devil, saying, <hi>Get thee behind me Satan, Mat</hi> 16.22, 23. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen whether all the women you marry, do not more contradict Christ <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords and actions, than <hi>Peter</hi> then did, and so in as bad or a worse <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han <hi>Peter</hi> then was? and if so, then whether that man which is caused <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ship such a woman, or a woman in such a state, do not therein worship <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that was deceived by the Devil?</p>
+            <p n="36">36. But whether doth the man worship the woman yea or nay?</p>
+            <p>The doth, is it not evil to worship the creature, or any thing else but God alone? <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he doth not, why must he speak that lye, and so thereby serve the Devil, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so be constrained to worship the Devil one way, or serve him another?</p>
+            <p n="37">37. Whether the man be not the head of the woman? and then, whether <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which is head, and above, must worship that which is under? and whether <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch a joining together as this, for the one to worship the other, be of God? <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether God's people in time of Law or Gospel, were ever joined toge<g ref="char:EOLhyphen"/>ther <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in such a Covenant? and whether it be not contrary to all Scripture and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> understanding? and whether it be not time to have this put away, as is <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tioned in the beginning?</p>
+            <p n="38">
+               <note place="margin">See Visi<g ref="char:EOLhyphen"/>tation of the sick.</note>38. Whether it be not a piece of gross apostacy and <hi>Popery,</hi> for proud, co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Priests, who are in divers sins, generally to pretend power to absolve <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sick from sin, with these words, I <hi>absolve thee from all thy sins?</hi> and whether <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the same Priests will not themselves acknowledge, <hi>that they are misera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and offendors?</hi> and can such forgive the sin of others, and cannot <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sin themselves? Or can they pull the Mote out of another's eye, before <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have cast the beam out of their own?</p>
+            <p n="39">39. Whether the Priest (though he is by his own confession a <hi>miserable sinner</hi>) <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> absolve the sick from his sin, that so he is then free from it? or doth he not? <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e doth, whether he doth not more for another than God hath done for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and then whence had he that Power so to do? and whether any true mem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Christ can believe it?</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not, whether therein the Priest be not a most miserable, blind Leader of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blind, and a soul deceives of mankind, both at their coming into the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by a pretended Regeneration, and at their going out of the world, by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an absolution? And whether ever there were any greater deceivers <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> these?</p>
+            <p n="40">40. Whether the people that dye in their sins, and the Priests that live in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sins, be not therein truly Brethren together in iniquity,<note place="margin">See buri<g ref="char:EOLhyphen"/>al of the dead.</note> seeing the priest <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the burying of the dead, <hi>Forasmuch as it hath pleased God to take our <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Brother here deceased?</hi>
+            </p>
+            <p n="41">41. Whether the priests do give God thanks for the safe deliverance of no <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> women but such as are God's servants?<note place="margin">See Chur<g ref="char:EOLhyphen"/>ching of women.</note> Or whether they are not to give <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thanks for almost all women after Child-birth? And whether all women <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are to give thanks for, and do give thanks for, be the servants of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, seeing they say, <hi>Almighty God, which hath delivered this woman thy Ser<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Or whether most of the women they give thanks for, be not servants
+<pb n="14" facs="tcp:101763:9"/>of sin, and led about with divers lusts? and whether it be not one thing <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a servant of sin, and another thing to be a servant of God?</p>
+            <p n="42">
+               <note place="margin">See Com<g ref="char:EOLhyphen"/>mination.</note>42. Whether the <hi>new Man</hi> which is <hi>within Children and People,</hi> and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> raised up <hi>in them,</hi> be not Christ? and whether Christ be not the Light? <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether he that is the new Man, and the Light, be not the <hi>Way?</hi> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all they be not blind that know it not? And if Christ the <hi>Light</hi> and the <hi>W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> be to be known <hi>within the hope of glory,</hi> and that the priests have caused <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dren and people who were so blind they did not know it, to go out from <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which is the <hi>new Man,</hi> and the <hi>Light and the Way within,</hi> and also teach <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to go after, and walk in something <hi>without;</hi> whether such Priests have not the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many years cursed themselves, or read the curse against themselves, and cur<g ref="char:EOLhyphen"/>sing the people to say Amen to it, in saying, <hi>Cursed is he that maketh the bli<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to go out of his way.</hi>
+            </p>
+            <p n="43">43. Whether the Priests themselves have not put their trust in man, and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ken <hi>one man</hi> and <hi>Protector</hi> after another, for their defence? and whether so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of them have not been unmerciful in taking more than ten times the va<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> (in goods) of what themselves demanded from men? and whether some ki<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not been Fornicators, and some covetous persons, and some slanderers <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drunkards, and many extortioners?</p>
+            <p>If not, let God's witness, and their own fruits testifie.</p>
+            <p>If they are such, then whether they have not a long time read the curs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> against themselves, and that from year to year in these late ages, as long a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they durst do it, saying, <hi>Cursed are the unmerciful, the fornicators, and adu<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> and the covetous persons, the worshippers of Images, slanderers, drunkards and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<g ref="char:EOLhyphen"/>tortioners?</hi>
+            </p>
+            <p n="44">44. Whether the Priests that did in our Infancy sprinkle us, who are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in derision by them called <hi>Quakers,</hi> did then by that water and their wor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> make us, or so many of us as they did so sprinkle, the Children of God, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Members of Christ, and the Inheritors of the Kingdom of Heaven?</p>
+            <p>If not, whether did not they grosly deceive us, as also by after teaching a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> perswading us, we were already regenerate and born again in our Baptism, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which means hindering us what in them lay, from ever looking after it, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> causing us to say we were that, we were not, and so made innocent children speak lyes, we not knowing it to be lyes?</p>
+            <p>If they did make us so, then what have they since done, in reviling <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> smiting with the tongue and pen, and writing against us the Member<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Christ, and persecuting us the Children of God, and that so many years toge<g ref="char:EOLunhyphen"/>ther, and in causing us the Inheritors of the Kingdom of Heaven, to be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>prisoned year after year, to the depriving many of us of our healths, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of our lives, and many of their livelyhoods, by spoiling of their Goods</p>
+            <p>
+               <hi>And by this time some other things then what the former Composers of the Common-Prayer did put away which did burthen mens Consciences, are herein by way of Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ry made manifest to be abused, yea, even the prayers abused; and several of thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the minds of people will never be quiet concerning, as to own them again, unless <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> better satisfaction in plain and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und words be given them, either by answer her<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> or otherwise in the like nature, in love, and not by severity; for love and sound <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may win the heart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of those, which severity, bonds and cruelty cannot force them <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> until they are better satisfied concerning it.</hi>
+            </p>
+            <closer>
+               <dateline>Winchest <hi>Prison,</hi>
+                  <date>
+                     <hi>the</hi> 30 <hi>of the</hi> 10 <hi>mon.</hi> 1661.</date>
+               </dateline>
+               <signed>H. S.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:101763:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
